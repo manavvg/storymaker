@@ -1,0 +1,156 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "images"
+public_folder: "/images"
+
+collections:
+  - name: "settings"
+    label: "⚙️ Site Settings"
+    files:
+      - label: "All Site Content"
+        name: "site"
+        file: "_data/site.json"
+        fields:
+          - label: "📞 Phone Number"
+            name: "phone"
+            widget: "string"
+
+          - label: "💬 WhatsApp Number"
+            name: "whatsapp"
+            widget: "string"
+
+          - label: "✉️ Email Address"
+            name: "email"
+            widget: "string"
+
+          - label: "📸 Instagram URL"
+            name: "instagram"
+            widget: "string"
+
+          - label: "Hero Tagline"
+            name: "hero_tagline"
+            widget: "string"
+
+          - label: "Hero Title"
+            name: "hero_title"
+            widget: "string"
+
+          - label: "Hero Subtitle"
+            name: "hero_subtitle"
+            widget: "text"
+
+          - label: "About Paragraph 1"
+            name: "about_1"
+            widget: "text"
+
+          - label: "About Paragraph 2"
+            name: "about_2"
+            widget: "text"
+
+          - label: "🗺️ Trips"
+            name: "trips"
+            widget: "list"
+            label_singular: "Trip"
+            fields:
+              - label: "Trip Name"
+                name: "name"
+                widget: "string"
+
+              - label: "Tag / Label"
+                name: "tag"
+                widget: "string"
+                hint: "e.g. Featured Journey, International, Domestic"
+
+              - label: "Duration"
+                name: "duration"
+                widget: "string"
+                hint: "e.g. 6N 7D"
+
+              - label: "Seats Left"
+                name: "seats"
+                widget: "string"
+                hint: "e.g. 12 Seats Left"
+
+              - label: "Price"
+                name: "price"
+                widget: "string"
+                hint: "e.g. From ₹24,999"
+
+              - label: "Cover Image URL"
+                name: "image"
+                widget: "string"
+
+              - label: "Featured (big card)?"
+                name: "featured"
+                widget: "boolean"
+                default: false
+                hint: "Only ONE trip should be featured at a time"
+
+              - label: "Meeting Point"
+                name: "meetingPoint"
+                widget: "string"
+                hint: "e.g. Leh Airport"
+
+              - label: "✨ Trip Highlights"
+                name: "highlights"
+                widget: "list"
+                field:
+                  label: "Highlight"
+                  name: "highlight"
+                  widget: "string"
+                hint: "Key things travellers will experience (5-6 points)"
+
+              - label: "📅 Day-by-Day Itinerary"
+                name: "itinerary"
+                widget: "list"
+                label_singular: "Day"
+                fields:
+                  - label: "Day Label"
+                    name: "day"
+                    widget: "string"
+                    hint: "e.g. Day 1"
+                  - label: "Day Title"
+                    name: "title"
+                    widget: "string"
+                    hint: "e.g. Arrive Leh — Acclimatize"
+                  - label: "Description"
+                    name: "desc"
+                    widget: "text"
+                    hint: "What happens this day"
+
+              - label: "✅ What's Included"
+                name: "included"
+                widget: "list"
+                field:
+                  label: "Item"
+                  name: "item"
+                  widget: "string"
+
+              - label: "❌ What's Excluded"
+                name: "excluded"
+                widget: "list"
+                field:
+                  label: "Item"
+                  name: "item"
+                  widget: "string"
+
+          - label: "⭐ Testimonials"
+            name: "testimonials"
+            widget: "list"
+            label_singular: "Testimonial"
+            fields:
+              - label: "Quote"
+                name: "quote"
+                widget: "text"
+              - label: "Trip Name"
+                name: "trip"
+                widget: "string"
+              - label: "Customer Name"
+                name: "name"
+                widget: "string"
+              - label: "Location & Date"
+                name: "location"
+                widget: "string"
+                hint: "e.g. Mumbai · Dec 2024"

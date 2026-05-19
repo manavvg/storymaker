@@ -1,0 +1,120 @@
+{
+  "phone": "+91 99999 99999",
+  "whatsapp": "+91 99999 99999",
+  "email": "hello@thestorymakers.co.in",
+  "instagram": "https://www.instagram.com/_the_story_makers_/",
+  "about_1": "The Story Makers was born from one conviction — every journey holds within it the seeds of a story profound enough to change how you see the world.",
+  "about_2": "From the frozen highways of Spiti to the rice terraces of Bali, our handcrafted group expeditions bring together curious souls who return not just with photographs, but with chapters of a life fully lived.",
+  "hero_tagline": "Every Journey, A Chapter",
+  "hero_title": "Where wanderers become authors",
+  "hero_subtitle": "Curated group expeditions across India & beyond — crafted for those who seek stories worth telling for a lifetime.",
+  "trips": [
+    {
+      "name": "Leh\u2013Leh with Turtuk",
+      "tag": "\u2726 Featured Journey",
+      "duration": "6N 7D",
+      "seats": "12 Seats Left",
+      "price": "From \u20b924,999",
+      "image": "https://images.unsplash.com/photo-1624461234697-fc39890c9a98?w=900&q=80",
+      "featured": true,
+      "highlights": ["Pangong Lake sunrise", "Turtuk village walk", "Nubra Valley sand dunes", "Khardung La pass", "Magnetic Hill experience"],
+      "itinerary": [
+        { "day": "Day 1", "title": "Arrive Leh \u2014 Acclimatize", "desc": "Arrive at Leh airport, transfer to hotel. Rest and acclimatize. Evening walk to Leh market." },
+        { "day": "Day 2", "title": "Leh Local Sightseeing", "desc": "Visit Shanti Stupa, Leh Palace, Hall of Fame museum and Leh market." },
+        { "day": "Day 3", "title": "Leh to Nubra Valley via Khardung La", "desc": "Drive over Khardung La (18,380 ft). Visit Diskit Monastery and Hunder sand dunes." },
+        { "day": "Day 4", "title": "Nubra to Turtuk Village", "desc": "Drive to Turtuk, the last village before Pakistan border. Explore apricot orchards and Balti culture." },
+        { "day": "Day 5", "title": "Nubra to Pangong Lake", "desc": "Scenic drive to Pangong Lake via Shyok river. Arrive for sunset. Overnight in lakeside camps." },
+        { "day": "Day 6", "title": "Pangong Sunrise & Return to Leh", "desc": "Wake early for Pangong sunrise. Drive back via Chang La pass. Evening souvenir shopping." },
+        { "day": "Day 7", "title": "Departure", "desc": "Morning transfer to Leh airport. Trip ends with memories for a lifetime." }
+      ],
+      "included": ["6 nights accommodation (hotels + camps)", "All meals (breakfast & dinner)", "Private vehicle throughout", "Expert trip leader", "All permits & entry fees", "First aid & oxygen cylinder"],
+      "excluded": ["Flights to/from Leh", "Lunch", "Personal expenses & tips", "Travel insurance"],
+      "meetingPoint": "Leh Airport, Kushok Bakula Rimpochee Airport"
+    },
+    {
+      "name": "Winter Spiti Expedition",
+      "tag": "Winter Special",
+      "duration": "7N 8D",
+      "seats": "8 Seats Left",
+      "price": "From \u20b919,499",
+      "image": "https://images.unsplash.com/photo-1598550473359-433bd534e8e7?w=700&q=80",
+      "featured": false,
+      "highlights": ["Frozen Spiti River walk", "Key Monastery in snow", "Snow leopard territory", "Mud village homestay", "Stargazing at 12,500 ft"],
+      "itinerary": [
+        { "day": "Day 1", "title": "Shimla to Narkanda", "desc": "Pick up from Shimla, drive through apple orchards to Narkanda." },
+        { "day": "Day 2", "title": "Narkanda to Sangla Valley", "desc": "Drive through Kinnaur along Sutlej river. Arrive Sangla village." },
+        { "day": "Day 3", "title": "Sangla to Chitkul & Kaza", "desc": "Visit Chitkul — last village before Indo-China border. Drive to Kaza." },
+        { "day": "Day 4", "title": "Kaza — Key & Kibber", "desc": "Visit 1000-year-old Key Monastery and Kibber village. Walk frozen trails." },
+        { "day": "Day 5", "title": "Langza & Komic — Fossil Village", "desc": "Drive to Langza for fossils and panoramic views, then Komic monastery." },
+        { "day": "Day 6", "title": "Pin Valley — Snow Leopard Territory", "desc": "Full day in Pin Valley National Park. Guided nature walk." },
+        { "day": "Day 7", "title": "Kaza to Manali via Kunzum La", "desc": "Drive over frozen Kunzum La pass into Lahaul Valley down to Manali." },
+        { "day": "Day 8", "title": "Manali Departure", "desc": "Morning mall road shopping. Afternoon departure. Trip ends." }
+      ],
+      "included": ["7 nights accommodation", "All meals", "Private 4WD vehicle", "Expert local guide", "All permits", "Bonfire & folk music evening"],
+      "excluded": ["Travel to Shimla / from Manali", "Lunch", "Personal expenses", "Travel insurance"],
+      "meetingPoint": "Shimla Bus Stand or Railway Station"
+    },
+    {
+      "name": "Bali Chronicles",
+      "tag": "International",
+      "duration": "5N 6D",
+      "seats": "14 Seats Left",
+      "price": "From \u20b949,999",
+      "image": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=700&q=80",
+      "featured": false,
+      "highlights": ["Tegallalang rice terraces", "Uluwatu cliff temple sunset", "Ubud monkey forest", "Traditional Kecak dance", "Seminyak beach evening"],
+      "itinerary": [
+        { "day": "Day 1", "title": "Arrive Bali — Seminyak", "desc": "Arrive Ngurah Rai Airport. Check in to Seminyak hotel. Evening beach walk. Welcome dinner." },
+        { "day": "Day 2", "title": "Ubud — Art & Culture", "desc": "Tegallalang rice terraces, Tirta Empul temple, Monkey Forest, Ubud Art Market." },
+        { "day": "Day 3", "title": "Ubud — Waterfalls & Cooking Class", "desc": "Balinese cooking class, Tegenungan Waterfall, Goa Gajah Cave, Kecak fire dance." },
+        { "day": "Day 4", "title": "East Bali — Gates of Heaven", "desc": "Pura Lempuyang temple, Candidasa black beach, Tirtagangga water palace." },
+        { "day": "Day 5", "title": "Uluwatu — Cliffs & Sunset", "desc": "Uluwatu cliff temple, hidden beaches, sunset Kecak dance, Jimbaran Bay seafood dinner." },
+        { "day": "Day 6", "title": "Departure", "desc": "Morning shopping at Seminyak. Transfer to airport. Until next chapter!" }
+      ],
+      "included": ["5 nights hotel", "Daily breakfast + welcome dinner", "All transfers in AC van", "Cooking class", "Kecak show entry", "English guide", "Visa on arrival fees"],
+      "excluded": ["International flights", "Lunch & dinner (except welcome dinner)", "Personal expenses", "Travel insurance"],
+      "meetingPoint": "Ngurah Rai International Airport, Bali"
+    },
+    {
+      "name": "Kashmir \u2014 Heaven's Chapter",
+      "tag": "Domestic",
+      "duration": "5N 6D",
+      "seats": "6 Seats Left",
+      "price": "From \u20b921,999",
+      "image": "https://images.unsplash.com/photo-1602643509035-f2fea5b9fc9f?w=700&q=80",
+      "featured": false,
+      "highlights": ["Shikara ride on Dal Lake", "Gulmarg gondola (Asia's highest)", "Pahalgam valley walk", "Mughal gardens", "Houseboat stay on Dal Lake"],
+      "itinerary": [
+        { "day": "Day 1", "title": "Arrive Srinagar — Dal Lake", "desc": "Arrive Srinagar airport. Check in to houseboat on Dal Lake. Evening Shikara ride." },
+        { "day": "Day 2", "title": "Srinagar — Mughal Gardens", "desc": "Visit Nishat Bagh, Shalimar Bagh and Chashme Shahi gardens. Evening at Lal Chowk." },
+        { "day": "Day 3", "title": "Gulmarg — Asia's Highest Gondola", "desc": "Drive to Gulmarg. Take Gondola to Kongdoori. Snow activities in winter." },
+        { "day": "Day 4", "title": "Pahalgam — Valley of Shepherds", "desc": "Drive through saffron fields. Visit Aru, Betaab Valley and Chandanwari." },
+        { "day": "Day 5", "title": "Pahalgam to Srinagar", "desc": "Morning walk along Lidder river. Return to Srinagar. Shopping for Pashmina and saffron." },
+        { "day": "Day 6", "title": "Departure", "desc": "Transfer to Srinagar airport. Trip ends with Kashmir in your heart." }
+      ],
+      "included": ["1 night houseboat + 4 nights hotel", "Daily breakfast + 2 dinners", "All transfers", "Shikara ride", "Expert guide", "All permits"],
+      "excluded": ["Flights to/from Srinagar", "Gondola ticket", "Lunch", "Personal expenses", "Travel insurance"],
+      "meetingPoint": "Sheikh ul-Alam International Airport, Srinagar"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "The Spiti trip wasn't just a holiday — it was the prologue to a completely different chapter of my life. Nothing has been the same since.",
+      "trip": "Winter Spiti Expedition",
+      "name": "Priya Mehta",
+      "location": "Mumbai \u00b7 Dec 2024"
+    },
+    {
+      "quote": "Every detail was thought through. The hidden cafes, the midnight stargazing, the local family dinners — it felt like someone had read my soul and designed this just for me.",
+      "trip": "Leh\u2013Leh with Turtuk",
+      "name": "Arjun Sharma",
+      "location": "Delhi \u00b7 Sep 2024"
+    },
+    {
+      "quote": "I've traveled with seven companies. The Story Makers is different. They don't sell a trip — they hand you a manuscript and say, Go live this. That's the difference.",
+      "trip": "Bali Chronicles",
+      "name": "Shreya Nair",
+      "location": "Bangalore \u00b7 Jan 2025"
+    }
+  ]
+}
